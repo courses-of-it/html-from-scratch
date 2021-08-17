@@ -1,0 +1,23 @@
+Atributos de las etiquetas
+Los atributos de las etiquetas sirven para especificar parámetros adicionales en la etiqueta.
+
+Los atributos incluyen en la etiqueta de inicio de la siguiente manera:
+
+< tag attribute1 attribute2 ... >
+
+La forma de estos atributos será:
+
+El nombre del atributo o bien,
+El nombre del atributo, seguido de =, seguido del valor que se le quiere asignar (generalmente entre comillas).
+Por ejemplo:
+
+<a href="http://www.codelearn.com">Link</a>
+
+<img src="image1.jpg" border=0 alt="name" />
+
+Cabe destacar que HTML permite omitir en algunos casos la etiqueta de final si la etiqueta no debe envolver ningún texto al que afecte, como es el caso del elemento img.
+
+Otro punto a destacar es que si el navegador no entiende alguna etiqueta, la ignorará y hará lo mismo con todo el texto afectado por esta.
+
+ 
+

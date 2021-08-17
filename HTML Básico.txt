@@ -1,0 +1,19 @@
+¿Qué es HTML?
+
+HTML Básico
+Los documentos HTML se conforman como documentos de texto plano (sin ningún tipo de formateo especial), en los que todo el formato del texto se especifica mediante marcas de texto, llamadas etiquetas (o tags en inglés), que delimitan los contenidos a los que afecta la etiqueta (disponemos de etiquetas de inicio y de final de marcado).
+
+Las etiquetas en HTML se forman con los siguientes componentes:
+
+Corchetes angulares
+En HTML los caracteres < y > se conocen como corchetes angulares.
+Elemento HTML
+El código HTML que se encuentra entre corchetes angulares.
+Etiqueta de obertura
+La primera etiqueta (o de obertura) HTML usada para iniciar un elemento HTML.
+Etiqueta de cierre
+La segunda etiqueta (o de cierre) HTML usada para cerrar un elemento HTML. Las etiquetas de cierre llevan una barra inclinada (/) dentro suyo.
+Con la excepción de unos pocos elementos HTML, la mayor parte de elementos consisten en una etiqueta de apertura y una de cierre.
+
+ 
+

@@ -1,0 +1,61 @@
+Saltos de Línea
+Es importante entender que el formato del código en un archivo HTML no afecta a la posición de los elementos en el navegador.
+
+Por ejemplo, si queremos incrementar el espacio entre un párrafo y una imagen en nuestra página web, no lo conseguiremos añadiendo simplemente más espacios entre el elemento párrafo y el elemento imagen en HTML. Esto es así porque el navegador ignora los espacios en blanco presentes en el archivo HTML.
+
+Por otro lado, usar espacios en blanco en los ficheros HTML sigue siendo importante para que nuestro código sea fácil de leer y seguir. Por ejemplo, el siguiente código es difícil de leer y entender:
+
+<html><head><title>Example</title></head>
+
+<body><h1>Hello!</h1><p>This is a paragraph.</p></body></html>
+
+En cambio, el mismo código haciendo uso de los espacios en blanco nos facilita la lectura:
+
+<html>
+
+    <head>
+
+        <title>Example</title>
+
+    </head>
+
+    <body>
+
+        <h1>Hello!</h1>
+
+        <p>This is a paragraph.</p>
+
+    </body>
+
+</html>
+
+Como se puede ver, modificar el espacio entre el código en el archivo HTML no afecta a la posición del elemento en el navegador.
+
+Si estamos interesados en modificar el espacio entre elementos en el navegador podemos usar el elemento break (<br>). La etiqueta <br> nos indica un salto de línea. Se trata de una etiqueta de auto-cierre, por lo tanto podemos usarla como etiqueta de apertura, sin etiqueta de cierre.
+
+La etiqueta BR no modifica los parámetros especificados para el párrafo en el que nos encontramos en este momento.
+
+ 
+
+<html>
+
+    <head>
+
+        <title>Example</title>
+
+    </head>
+
+    <body>
+
+        <h1>Hello!</h1>
+
+        <p>This is a paragraph.</p>
+
+        <br>
+
+        <p>Another paragraph separated from the first.</p>
+
+    </body>
+
+</html>
+

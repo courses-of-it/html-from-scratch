@@ -1,0 +1,26 @@
+¿Qué es HTML?
+HTML es un lenguaje usado para crear las páginas web que utilizamos a diario y proporciona un mecanismo lógico para estructurar el contenido de las páginas web.
+
+Si analizamos el acrónimo HTML vemos que contiene bastante información útil:
+
+HyperText Markup Language
+
+También dicho Lenguaje de Marcado Hyper Textual.
+
+Un lenguaje de marcado es un lenguaje de programación que define la estructura y la presentación del texto sin formato.
+
+Los lenguajes de marcado funcionan envolviendo el texto sin formato con información que el ordenador pueda interpretar, "marcándolo" para procesar.
+
+El hipertexto es texto que se muestra en un ordenador o dispositivo, y que proporciona acceso a otro tipo de texto a través de enlaces, también conocidos como links.
+
+Un ejemplo de código escrito en lenguaje HTML podría ser:
+
+<html>
+    <head>
+    </head>
+        <title>An HTML example</title>
+    <body>
+        <h1>The adventure starts</h1>
+        <a class="btn" href="#">Come on!</a>
+    </body>
+</html>

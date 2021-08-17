@@ -1,0 +1,121 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+body{
+  background:#984B43;
+}
+
+header, .main, footer{
+  width: 90%;
+  max-width:1000px;
+  margin: 20px auto;
+}
+
+header nav{
+  background-color:#EAC67A;
+  overflow: hidden;
+}
+
+header nav ul{
+  list-style: none;
+}
+
+header nav ul li a {
+  padding: 10px 20px;
+  display: block;
+  color: #000;
+  text-decoration: none;
+  font-family: Lucida Console;
+}
+
+header nav ul li a:hover{
+  background-color: #e8b340;
+  color: #000;
+}
+
+
+header nav ul li{
+  float:left;
+}
+
+.logotipo{
+  float:left;
+}
+
+h1{
+  font-size: 50px;
+  font-family: "Courier New";
+
+}
+
+
+a{
+  text-decoration: none;
+}
+
+table{
+  border: 1px solid #000;
+  border-collapse: colapse;
+  width: 100%;
+}
+table td {
+  border: 1px solid #000;
+  padding: 20px;
+}
+table{
+  background-color: #ccc;
+
+}
+table{
+  background-color: #233237;
+  color: #fff;
+
+}
+
+table tr td p{
+  color:#fff;
+  font-family: gabriola;
+  font-size: 30px;
+}
+
+table tr td:hover{
+  background-color: #18121E;
+}
+
+div span img{
+  height: 300px;
+  width: 600px;
+  position: relative;
+  left: 200px;
+  display: block;
+}
+
+tr td a p{
+  display: in-line;
+}
+
+.logotipo{
+  float:left;
+}
+
+h1{
+  font-size: 50px;
+  font-family: "Courier New";
+
+}
+
+footer{
+  background-color: #EAC67A;
+  color: #000;
+  clear: both;
+  padding: 20px 0px;
+  text-align: center;
+  position: relative;
+  top:50px;
+  font-size: 15px;
+  font-family: Courier New;
+
+
+}

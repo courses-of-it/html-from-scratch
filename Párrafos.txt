@@ -1,0 +1,21 @@
+Párrafos
+HTML dispone de la etiqueta <p> para separar párrafos de texto.
+
+Teniendo en cuenta que HTML ignora los saltos de línea introducidos en el fichero original y de que, para HTML, todo el texto es continuo, necesitamos algún mecanismo para indicar principio y final de párrafo.
+
+Este mecanismo viene dado por las marcas <p> y </ p>.
+
+La etiqueta <p> admite, además, un atributo: ALIGN. Este indica la alineación del texto en el párrafo, pudiendo tomar los siguiente valores:
+
+LEFT, alineación a la izquierda (es el activo por defecto).
+RIGHT, alineación a la derecha.
+CENTER, centrado del texto.
+La marca de final del párrafo, </ p>, está definida en el estándar HTML como opcional, pudiendo omitirse. En este caso, el navegador inferirá que una nueva aparición de <p> indica el final del párrafo anterior.
+
+Algunos ejemplos de párrafo podrían ser:
+
+<p>This is a paragraph.</p>
+
+<p align=left>This is a paragraph with the text aligned to the left.</p>
+
+<p align=center>This is a centerd paragraph.</p>

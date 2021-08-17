@@ -1,0 +1,29 @@
+Estructura de los documentos HTML
+Todos los documentos HTML siguen aproximadamente la misma estructura.
+
+Todo el documento debe ir contenido en una etiqueta HTML, dividiéndose en dos partes:
+
+La cabecera, contenida en una etiqueta HEAD, contiene algunas definiciones sobre el documento: su título, marcas extra de formateo, palabras clave, etc.
+El cuerpo del documento (donde se encuentra la información del documento), que está envuelto por una etiqueta body.
+Un primer ejemplo sería:
+
+<html>
+
+    <head>
+
+    </head>
+
+        <title>The title of the document</title>
+
+    <body>
+
+        Text of the document.
+
+    </body>
+
+</html>
+
+Si abrimos un documento con este contenido en un navegador, apreciaremos que lo que contienen las etiquetas TITLE no se visualizará en el documento, sino que el navegador las utiliza en la barra de título de la ventana (o de la solapa).
+
+ 
+

@@ -1,0 +1,31 @@
+Comentarios
+En HTML podemos introducir comentarios en la página con las marcas <! - y ->.
+
+El navegador ignora el contenido que se encuentre entre estas dos marcas y no lo muestra al usuario.
+
+ 
+
+<html>
+
+    <head>
+
+        <title>Example</title>
+
+    </head>
+
+    <body>
+
+        <p>This text appears as usual.</p>
+
+        <!-- This is a comment.
+
+        Since this is a comment, this will not appear on the page and the HTML tags will have no value.
+
+        -->
+
+        This is outside the comment.
+
+    </body>
+
+</html>
+

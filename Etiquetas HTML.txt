@@ -1,0 +1,20 @@
+Etiquetas HTML
+Las etiquetas o tags son marcas de texto que empiezan por el carácter <, seguido del nombre de la etiqueta, los atributos adicionales y terminan con el carácter >.
+
+Así pues, la forma de una etiqueta de inicio queda:
+
+< tag >
+
+La forma para una etiqueta de cierre comienza con el carácter <, seguido del carácter /, seguido del nombre de la etiqueta y terminan con el carácter >:
+
+</ tag >
+
+Las etiquetas NO son sensibles a mayúsculas / minúsculas (son lo que llamamos, CASE INSENSITIVE).
+
+Algunos ejemplos de etiquetas HTML son:
+
+<title>Name of the document</title>
+
+<p>An example of tag.</p>
+
+<b>Bold<i>Italics</i>Bold</b>

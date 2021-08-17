@@ -1,0 +1,10 @@
+Bloques de Texto
+Disponemos de varios tipos de bloque de texto en HTML:
+
+Párrafos
+Saltos de línea
+Texto citado
+Divisiones
+Texto preformatado
+Centrados
+A continuación vamos a hablar en detalle de qué podemos hacer con cada uno de estos elementos.
